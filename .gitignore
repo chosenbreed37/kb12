@@ -1,0 +1,7 @@
+site
+md/*.html
+md/**.html
+md/**/**/*.html
+md/**/**/**/*.html
+md/**/**/**/*.html
+.firebase
